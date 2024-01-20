@@ -25,7 +25,7 @@ function App() {
   return (
     <>
       <h1 className="title">
-        Japanese colors
+        Japanese Colors
       </h1>
       <p className="description">
         Below are 456 known traditional Japanese colors. In Japanese, the word "Nezu (鼠)" meaning "mouse" is used in some color names to indicate gray. There is also the term "Hai-iro (灰色)" that directly translates to "gray color", but it is not commonly used since the word "hai" also means "ash" which reminds people of death.
