@@ -1,0 +1,2792 @@
+[
+  {
+      "color": "#fef4f4",
+      "romaji": "Sakura-iro",
+      "kanji": "桜色",
+      "eng": "Cherry Blossom"
+  },
+  {
+      "color": "#fdeff2",
+      "romaji": "Usuzakura",
+      "kanji": "薄桜",
+      "eng": "Pale Cherry Blossom"
+  },
+  {
+      "color": "#e9dfe5",
+      "romaji": "Sakuranezu",
+      "kanji": "桜鼠",
+      "eng": "Cherry Blossom Gray"
+  },
+  {
+      "color": "#e4d2d8",
+      "romaji": "Tokinezu",
+      "kanji": "鴇鼠",
+      "eng": "Tofu Gray"
+  },
+  {
+      "color": "#f6bfbc",
+      "romaji": "Nijiiro",
+      "kanji": "虹色",
+      "eng": "Rainbow"
+  },
+  {
+      "color": "#f5b1aa",
+      "romaji": "Sangoiro",
+      "kanji": "珊瑚色",
+      "eng": "Coral"
+  },
+  {
+      "color": "#f5b199",
+      "romaji": "Ikkonzome",
+      "kanji": "一斤染",
+      "eng": "One-Kin Dyeing"
+  },
+  {
+      "color": "#efab93",
+      "romaji": "Shishi-iro",
+      "kanji": "宍色",
+      "eng": "Deer"
+  },
+  {
+      "color": "#f2a0a1",
+      "romaji": "Koubai-iro",
+      "kanji": "紅梅色",
+      "eng": "Red Plum"
+  },
+  {
+      "color": "#f0908d",
+      "romaji": "Usu-beni",
+      "kanji": "薄紅",
+      "eng": "Pale Red"
+  },
+  {
+      "color": "#ee827c",
+      "romaji": "Jinzamomi",
+      "kanji": "甚三紅",
+      "eng": "Deep Pink"
+  },
+  {
+      "color": "#f09199",
+      "romaji": "Momo-iro",
+      "kanji": "桃色",
+      "eng": "Peach"
+  },
+  {
+      "color": "#f4b3c2",
+      "romaji": "Toki-iro",
+      "kanji": "鴇色",
+      "eng": "Tofu"
+  },
+  {
+      "color": "#eebbcb",
+      "romaji": "Nadeshiko-iro",
+      "kanji": "撫子色",
+      "eng": "Dianthus"
+  },
+  {
+      "color": "#e8d3c7",
+      "romaji": "Haiume",
+      "kanji": "灰梅",
+      "eng": "Ash Plum"
+  },
+  {
+      "color": "#e8d3d1",
+      "romaji": "Haizakura",
+      "kanji": "灰桜",
+      "eng": "Grayish Cherry Blossom"
+  },
+  {
+      "color": "#e6cde3",
+      "romaji": "Awabenifuji",
+      "kanji": "淡紅藤",
+      "eng": "Light Pink Wisteria"
+  },
+  {
+      "color": "#e5abbe",
+      "romaji": "Sekichiku-iro",
+      "kanji": "石竹色",
+      "eng": "China Pink"
+  },
+  {
+      "color": "#e597b2",
+      "romaji": "Usu-koubai",
+      "kanji": "薄紅梅",
+      "eng": "Pale Red Plum"
+  },
+  {
+      "color": "#e198b4",
+      "romaji": "Momo-hana-iro",
+      "kanji": "桃花色",
+      "eng": "Peach Blossom"
+  },
+  {
+      "color": "#e4ab9b",
+      "romaji": "Mizugaki",
+      "kanji": "水柿",
+      "eng": "Water Persimmon"
+  },
+  {
+      "color": "#e09e87",
+      "romaji": "Tokigaracha",
+      "kanji": "ときがら茶",
+      "eng": "Time-Worn Tea"
+  },
+  {
+      "color": "#d69090",
+      "romaji": "Taikou",
+      "kanji": "退紅",
+      "eng": "Faded Pink"
+  },
+  {
+      "color": "#d4acad",
+      "romaji": "Usukaki",
+      "kanji": "薄柿",
+      "eng": "Light Persimmon"
+  },
+  {
+      "color": "#c97586",
+      "romaji": "Choushuniro",
+      "kanji": "長春色",
+      "eng": "Eternal Spring"
+  },
+  {
+      "color": "#c099a0",
+      "romaji": "Umezu",
+      "kanji": "梅鼠",
+      "eng": "Plum Gray"
+  },
+  {
+      "color": "#b88884",
+      "romaji": "Toki Asagi",
+      "kanji": "鴇浅葱",
+      "eng": "Light Pink Asagi"
+  },
+  {
+      "color": "#b48a76",
+      "romaji": "Umezome",
+      "kanji": "梅染",
+      "eng": "Plum Dye"
+  },
+  {
+      "color": "#a86965",
+      "romaji": "Soukoukou",
+      "kanji": "蘇芳香",
+      "eng": "Safflower Fragrance"
+  },
+  {
+      "color": "#a25768",
+      "romaji": "Asasoukou",
+      "kanji": "浅蘇芳",
+      "eng": "Light Safflower"
+  },
+  {
+      "color": "#ec6d71",
+      "romaji": "Shinshu",
+      "kanji": "真朱",
+      "eng": "True Vermilion"
+  },
+  {
+      "color": "#eb6ea5",
+      "romaji": "Akamurasaki",
+      "kanji": "赤紫",
+      "eng": "Red Purple"
+  },
+  {
+      "color": "#e95295",
+      "romaji": "Tsutsuji",
+      "kanji": "躑躅色",
+      "eng": "Azalea"
+  },
+  {
+      "color": "#e7609e",
+      "romaji": "Botan",
+      "kanji": "牡丹色",
+      "eng": "Peony"
+  },
+  {
+      "color": "#d0576b",
+      "romaji": "Imayou",
+      "kanji": "今様色",
+      "eng": "Modern"
+  },
+  {
+      "color": "#c85179",
+      "romaji": "Nakabeni",
+      "kanji": "中紅",
+      "eng": "Medium Red"
+  },
+  {
+      "color": "#e9546b",
+      "romaji": "Barairo",
+      "kanji": "薔薇色",
+      "eng": "Rose"
+  },
+  {
+      "color": "#e95464",
+      "romaji": "Kanou",
+      "kanji": "韓紅",
+      "eng": "Korean Red"
+  },
+  {
+      "color": "#c85554",
+      "romaji": "Ginshu",
+      "kanji": "銀朱",
+      "eng": "Silver Vermilion"
+  },
+  {
+      "color": "#c53d43",
+      "romaji": "Sekiben",
+      "kanji": "赤紅",
+      "eng": "Bright Red"
+  },
+  {
+      "color": "#e83929",
+      "romaji": "Kouhi",
+      "kanji": "紅緋",
+      "eng": "Scarlet"
+  },
+  {
+      "color": "#e60033",
+      "romaji": "Aka",
+      "kanji": "赤",
+      "eng": "Red"
+  },
+  {
+      "color": "#e2041b",
+      "romaji": "Shoujouhi",
+      "kanji": "猩々緋",
+      "eng": "Scarlet"
+  },
+  {
+      "color": "#d7003a",
+      "romaji": "Kurenai",
+      "kanji": "紅",
+      "eng": "Crimson"
+  },
+  {
+      "color": "#c9171e",
+      "romaji": "Koka",
+      "kanji": "深緋",
+      "eng": "Cardinal"
+  },
+  {
+      "color": "#d3381c",
+      "romaji": "Hiiro",
+      "kanji": "緋色",
+      "eng": "Scarlet"
+  },
+  {
+      "color": "#ce5242",
+      "romaji": "Akani",
+      "kanji": "赤丹",
+      "eng": "Vermilion"
+  },
+  {
+      "color": "#d9333f",
+      "romaji": "Beniaka",
+      "kanji": "紅赤",
+      "eng": "Carmine"
+  },
+  {
+      "color": "#b94047",
+      "romaji": "Enji",
+      "kanji": "臙脂",
+      "eng": "Cinnabar"
+  },
+  {
+      "color": "#ba2636",
+      "romaji": "Shuhi",
+      "kanji": "朱・緋",
+      "eng": "Vermilion"
+  },
+  {
+      "color": "#b7282e",
+      "romaji": "Akaneiro",
+      "kanji": "茜色",
+      "eng": "Madder Red"
+  },
+  {
+      "color": "#a73836",
+      "romaji": "Beni Ebi Cha",
+      "kanji": "紅海老茶",
+      "eng": "Ebi Red"
+  },
+  {
+      "color": "#9e3d3f",
+      "romaji": "Suō",
+      "kanji": "蘇芳",
+      "eng": "Safflower Red"
+  },
+  {
+      "color": "#a22041",
+      "romaji": "Shinku",
+      "kanji": "真紅",
+      "eng": "Bright Red"
+  },
+  {
+      "color": "#a22041",
+      "romaji": "Kōkō",
+      "kanji": "濃紅",
+      "eng": "Deep Red"
+  },
+  {
+      "color": "#f8f4e6",
+      "romaji": "Zōgeiro",
+      "kanji": "象牙色",
+      "eng": "Ivory"
+  },
+  {
+      "color": "#ede4cd",
+      "romaji": "Neriiro",
+      "kanji": "練色",
+      "eng": "Off-White"
+  },
+  {
+      "color": "#e9e4d4",
+      "romaji": "Haijiroi",
+      "kanji": "灰白色",
+      "eng": "Ash Gray"
+  },
+  {
+      "color": "#ebe1a9",
+      "romaji": "Mushikuriiro",
+      "kanji": "蒸栗色",
+      "eng": "Steamed Chestnut"
+  },
+  {
+      "color": "#f2f2b0",
+      "romaji": "Omegusa",
+      "kanji": "女郎花",
+      "eng": "Yellow Patrinia"
+  },
+  {
+      "color": "#e4dc8a",
+      "romaji": "Karekusairo",
+      "kanji": "枯草色",
+      "eng": "Hay"
+  },
+  {
+      "color": "#f8e58c",
+      "romaji": "Tanki",
+      "kanji": "淡黄",
+      "eng": "Light Yellow"
+  },
+  {
+      "color": "#ddbb99",
+      "romaji": "Shiracha",
+      "kanji": "白茶",
+      "eng": "Tea White"
+  },
+  {
+      "color": "#d7a98c",
+      "romaji": "Akashirotsurubami",
+      "kanji": "赤白橡",
+      "eng": "Pale Red Gray"
+  },
+  {
+      "color": "#f2c9ac",
+      "romaji": "Arigaki",
+      "kanji": "洗柿",
+      "eng": "Persimmon Wash"
+  },
+  {
+      "color": "#fff1cf",
+      "romaji": "Torinokoiro",
+      "kanji": "鳥の子色",
+      "eng": "Bird's Egg"
+  },
+  {
+      "color": "#fddea5",
+      "romaji": "Hachimitsuiro",
+      "kanji": "蜂蜜色",
+      "eng": "Honey"
+  },
+  {
+      "color": "#fce2c4",
+      "romaji": "Hadairo",
+      "kanji": "肌色",
+      "eng": "Flesh"
+  },
+  {
+      "color": "#fde8d0",
+      "romaji": "Usu Tamago Iro",
+      "kanji": "薄卵色",
+      "eng": "Light Egg"
+  },
+  {
+      "color": "#f9c89b",
+      "romaji": "Yūō",
+      "kanji": "雄黄",
+      "eng": "Orpiment"
+  },
+  {
+      "color": "#f7bd8f",
+      "romaji": "Sharegaki",
+      "kanji": "洒落柿",
+      "eng": "Fashionable Persimmon"
+  },
+  {
+      "color": "#f6b894",
+      "romaji": "Akakō",
+      "kanji": "赤香",
+      "eng": "Red Incense"
+  },
+  {
+      "color": "#f4dda5",
+      "romaji": "Tonoko Iro",
+      "kanji": "砥粉色",
+      "eng": "Polishing Powder"
+  },
+  {
+      "color": "#f1bf99",
+      "romaji": "Nikuiro",
+      "kanji": "肉色",
+      "eng": "Meat"
+  },
+  {
+      "color": "#f1bf99",
+      "romaji": "Hitoiro",
+      "kanji": "人色",
+      "eng": "Human"
+  },
+  {
+      "color": "#efcd9a",
+      "romaji": "Chōjiiro",
+      "kanji": "丁子色",
+      "eng": "Clove"
+  },
+  {
+      "color": "#efcd9a",
+      "romaji": "Kōiro",
+      "kanji": "香色",
+      "eng": "Incense"
+  },
+  {
+      "color": "#f0cfa0",
+      "romaji": "Usukō",
+      "kanji": "薄香",
+      "eng": "Light Incense"
+  },
+  {
+      "color": "#edd3a1",
+      "romaji": "Asagi",
+      "kanji": "浅黄",
+      "eng": "Light Yellow"
+  },
+  {
+      "color": "#e0c38c",
+      "romaji": "Kareiro",
+      "kanji": "枯色",
+      "eng": "Withered"
+  },
+  {
+      "color": "#f3bf88",
+      "romaji": "Tankō",
+      "kanji": "淡香",
+      "eng": "Faint Incense"
+  },
+  {
+      "color": "#f7b977",
+      "romaji": "Anzu Iro",
+      "kanji": "杏色",
+      "eng": "Apricot"
+  },
+  {
+      "color": "#f19072",
+      "romaji": "Shinonome Iro",
+      "kanji": "東雲色",
+      "eng": "Shinonome (Dawn)"
+  },
+  {
+      "color": "#f19072",
+      "romaji": "Akebono Iro",
+      "kanji": "曙色",
+      "eng": "Dawn"
+  },
+  {
+      "color": "#ee836f",
+      "romaji": "Sango Shuiro",
+      "kanji": "珊瑚朱色",
+      "eng": "Coral Red"
+  },
+  {
+      "color": "#eb9b6f",
+      "romaji": "Fukashiku",
+      "kanji": "深支子",
+      "eng": "Deep Madder"
+  },
+  {
+      "color": "#e0815e",
+      "romaji": "Sō",
+      "kanji": "纁",
+      "eng": "Reddish Brown"
+  },
+  {
+      "color": "#df7163",
+      "romaji": "Asahi",
+      "kanji": "浅緋",
+      "eng": "Light Scarlet"
+  },
+  {
+      "color": "#d57c6b",
+      "romaji": "Masshō",
+      "kanji": "真赭",
+      "eng": "Real Shale"
+  },
+  {
+      "color": "#d0826c",
+      "romaji": "Arazome",
+      "kanji": "洗朱",
+      "eng": "Washed Vermilion"
+  },
+  {
+      "color": "#ca8269",
+      "romaji": "Enshūcha",
+      "kanji": "遠州茶",
+      "eng": "Enshū Brown"
+  },
+  {
+      "color": "#bb5548",
+      "romaji": "Benikabairo",
+      "kanji": "紅樺色",
+      "eng": "Birch"
+  },
+  {
+      "color": "#ab6953",
+      "romaji": "Shā",
+      "kanji": "赭",
+      "eng": "Ochre"
+  },
+  {
+      "color": "#96514d",
+      "romaji": "Azukiiro",
+      "kanji": "小豆色",
+      "eng": "Azuki Bean"
+  },
+  {
+      "color": "#8d6449",
+      "romaji": "Karecha",
+      "kanji": "枯茶",
+      "eng": "Wilted Tea"
+  },
+  {
+      "color": "#deb068",
+      "romaji": "Ameiro",
+      "kanji": "飴色",
+      "eng": "Candy"
+  },
+  {
+      "color": "#bf794e",
+      "romaji": "Rakuda Iro",
+      "kanji": "駱駝色",
+      "eng": "Camel"
+  },
+  {
+      "color": "#bc763c",
+      "romaji": "Tsuchiiro",
+      "kanji": "土色",
+      "eng": "Earth"
+  },
+  {
+      "color": "#b98c46",
+      "romaji": "Kikaracha",
+      "kanji": "黄唐茶",
+      "eng": "Yellow Karacha"
+  },
+  {
+      "color": "#b79b5b",
+      "romaji": "Kuwazome",
+      "kanji": "桑染",
+      "eng": "Mulberry Dye"
+  },
+  {
+      "color": "#b77b57",
+      "romaji": "Hajiiro",
+      "kanji": "櫨色",
+      "eng": "Turmeric"
+  },
+  {
+      "color": "#b68d4c",
+      "romaji": "Kitsurubami",
+      "kanji": "黄橡",
+      "eng": "Yellow Oak"
+  },
+  {
+      "color": "#ad7d4c",
+      "romaji": "Chōjizome",
+      "kanji": "丁字染",
+      "eng": "Clove Dye"
+  },
+  {
+      "color": "#ad7d4c",
+      "romaji": "Kōzome",
+      "kanji": "香染",
+      "eng": "Incense Dye"
+  },
+  {
+      "color": "#ae7c4f",
+      "romaji": "Biwacha",
+      "kanji": "枇杷茶",
+      "eng": "Loquat Tea"
+  },
+  {
+      "color": "#ad7e4e",
+      "romaji": "Shikankōcha",
+      "kanji": "芝翫茶",
+      "eng": "Shikankō Tea"
+  },
+  {
+      "color": "#ae7c58",
+      "romaji": "Kōkō",
+      "kanji": "焦香",
+      "eng": "Burnt Incense"
+  },
+  {
+      "color": "#a86f4c",
+      "romaji": "Kurumi Iro",
+      "kanji": "胡桃色",
+      "eng": "Walnut"
+  },
+  {
+      "color": "#946243",
+      "romaji": "Shibukami Iro",
+      "kanji": "渋紙色",
+      "eng": "Astringent Paper"
+  },
+  {
+      "color": "#917347",
+      "romaji": "Kuchiba Iro",
+      "kanji": "朽葉色",
+      "eng": "Decayed Leaf"
+  },
+  {
+      "color": "#956f29",
+      "romaji": "Kuwacha",
+      "kanji": "桑茶",
+      "eng": "Mulberry Tea"
+  },
+  {
+      "color": "#8c7042",
+      "romaji": "Rokōcha",
+      "kanji": "路考茶",
+      "eng": "Roasted Tea"
+  },
+  {
+      "color": "#7b6c3e",
+      "romaji": "Kokuboku Iro",
+      "kanji": "国防色",
+      "eng": "Military"
+  },
+  {
+      "color": "#d8a373",
+      "romaji": "Kyarairo",
+      "kanji": "伽羅色",
+      "eng": "Kyara"
+  },
+  {
+      "color": "#cd8c5c",
+      "romaji": "Edocha",
+      "kanji": "江戸茶",
+      "eng": "Edo Tea"
+  },
+  {
+      "color": "#cd5e3c",
+      "romaji": "Kabairo",
+      "kanji": "樺色",
+      "eng": "Birch"
+  },
+  {
+      "color": "#cb8347",
+      "romaji": "Kōukon",
+      "kanji": "紅鬱金",
+      "eng": "Red Ochre"
+  },
+  {
+      "color": "#c37854",
+      "romaji": "Dokiiro",
+      "kanji": "土器色",
+      "eng": "Pottery"
+  },
+  {
+      "color": "#c38743",
+      "romaji": "Kitsune Iro",
+      "kanji": "狐色",
+      "eng": "Fox"
+  },
+  {
+      "color": "#c39143",
+      "romaji": "Ōdo Iro",
+      "kanji": "黄土色",
+      "eng": "Yellow Clay"
+  },
+  {
+      "color": "#bf783a",
+      "romaji": "Kohaku Iro",
+      "kanji": "琥珀色",
+      "eng": "Amber"
+  },
+  {
+      "color": "#bb5535",
+      "romaji": "Akacha",
+      "kanji": "赤茶",
+      "eng": "Red Tea"
+  },
+  {
+      "color": "#bb5520",
+      "romaji": "Taisha",
+      "kanji": "代赭",
+      "eng": "Taisha Red"
+  },
+  {
+      "color": "#b55233",
+      "romaji": "Rengairo",
+      "kanji": "煉瓦色",
+      "eng": "Brick"
+  },
+  {
+      "color": "#aa4f37",
+      "romaji": "Suzumecha",
+      "kanji": "雀茶",
+      "eng": "Sparrow Tea"
+  },
+  {
+      "color": "#9f563a",
+      "romaji": "Danjūrōcha",
+      "kanji": "団十郎茶",
+      "eng": "Danjūrō Tea"
+  },
+  {
+      "color": "#9f563a",
+      "romaji": "Kakishibu Iro",
+      "kanji": "柿渋色",
+      "eng": "Persimmon Tannin"
+  },
+  {
+      "color": "#9a493f",
+      "romaji": "Benitobi",
+      "kanji": "紅鳶",
+      "eng": "Red Kite"
+  },
+  {
+      "color": "#98623c",
+      "romaji": "Haicha",
+      "kanji": "灰茶",
+      "eng": "Gray Brown"
+  },
+  {
+      "color": "#965042",
+      "romaji": "Chairo",
+      "kanji": "茶色",
+      "eng": "Brown"
+  },
+  {
+      "color": "#965036",
+      "romaji": "Hiwada Iro",
+      "kanji": "檜皮色",
+      "eng": "Cypress Bark"
+  },
+  {
+      "color": "#95483f",
+      "romaji": "Tobi Iro",
+      "kanji": "鳶色",
+      "eng": "Black Kite"
+  },
+  {
+      "color": "#954e2a",
+      "romaji": "Kakicha",
+      "kanji": "柿茶",
+      "eng": "Persimmon Tea"
+  },
+  {
+      "color": "#8f2e14",
+      "romaji": "Bengara Iro",
+      "kanji": "弁柄色",
+      "eng": "Valve Pattern"
+  },
+  {
+      "color": "#8a3319",
+      "romaji": "Akasabi Iro",
+      "kanji": "赤錆色",
+      "eng": "Red Rust"
+  },
+  {
+      "color": "#8a3b00",
+      "romaji": "Kasshoku",
+      "kanji": "褐色",
+      "eng": "Brown"
+  },
+  {
+      "color": "#852e19",
+      "romaji": "Kuri Ume",
+      "kanji": "栗梅",
+      "eng": "Chestnut Plum"
+  },
+  {
+      "color": "#7b4741",
+      "romaji": "Kōhiwada",
+      "kanji": "紅檜皮",
+      "eng": "Red Cypress Bark"
+  },
+  {
+      "color": "#773c30",
+      "romaji": "Ebicha",
+      "kanji": "海老茶",
+      "eng": "Shrimp Tea"
+  },
+  {
+      "color": "#783c1d",
+      "romaji": "Karacha",
+      "kanji": "唐茶",
+      "eng": "Tang Tea"
+  },
+  {
+      "color": "#762f07",
+      "romaji": "Kuriiro",
+      "kanji": "栗色",
+      "eng": "Chestnut"
+  },
+  {
+      "color": "#752100",
+      "romaji": "Shakudō Iro",
+      "kanji": "赤銅色",
+      "eng": "Copper Red"
+  },
+  {
+      "color": "#6c3524",
+      "romaji": "Sabiiro",
+      "kanji": "錆色",
+      "eng": "Rust"
+  },
+  {
+      "color": "#683f36",
+      "romaji": "Sekkasshoku",
+      "kanji": "赤褐色",
+      "eng": "Reddish Brown"
+  },
+  {
+      "color": "#664032",
+      "romaji": "Chakasshoku",
+      "kanji": "茶褐色",
+      "eng": "Tea Brown"
+  },
+  {
+      "color": "#6d3c32",
+      "romaji": "Kurikawacha",
+      "kanji": "栗皮茶",
+      "eng": "Chestnut Peel"
+  },
+  {
+      "color": "#583822",
+      "romaji": "Kurocha",
+      "kanji": "黒茶",
+      "eng": "Black Tea"
+  },
+  {
+      "color": "#6c2c2f",
+      "romaji": "Ebicha",
+      "kanji": "葡萄茶",
+      "eng": "Grape Tea"
+  },
+  {
+      "color": "#640125",
+      "romaji": "Ebi",
+      "kanji": "葡萄色",
+      "eng": "Grape"
+  },
+  {
+      "color": "#f8b862",
+      "romaji": "Kanzo",
+      "kanji": "萱草色",
+      "eng": "Daylily"
+  },
+  {
+      "color": "#f6ad49",
+      "romaji": "Koji",
+      "kanji": "柑子色",
+      "eng": "Citrus"
+  },
+  {
+      "color": "#f39800",
+      "romaji": "Kicha",
+      "kanji": "金茶",
+      "eng": "Golden Tea"
+  },
+  {
+      "color": "#f08300",
+      "romaji": "Mikan",
+      "kanji": "蜜柑色",
+      "eng": "Tangerine"
+  },
+  {
+      "color": "#ec6d51",
+      "romaji": "Entan",
+      "kanji": "鉛丹色",
+      "eng": "Lead Tannin"
+  },
+  {
+      "color": "#ee7948",
+      "romaji": "Otan",
+      "kanji": "黄丹",
+      "eng": "Yellow Tannin"
+  },
+  {
+      "color": "#ed6d3d",
+      "romaji": "Kakiiro",
+      "kanji": "柿色",
+      "eng": "Persimmon"
+  },
+  {
+      "color": "#ec6800",
+      "romaji": "Kiaka",
+      "kanji": "黄赤",
+      "eng": "Yellow Red"
+  },
+  {
+      "color": "#ec6800",
+      "romaji": "Ninjin",
+      "kanji": "人参色",
+      "eng": "Carrot"
+  },
+  {
+      "color": "#ee7800",
+      "romaji": "Daidai",
+      "kanji": "橙色",
+      "eng": "Bitter Orange"
+  },
+  {
+      "color": "#eb6238",
+      "romaji": "Terigaki",
+      "kanji": "照柿",
+      "eng": "Glazed Persimmon"
+  },
+  {
+      "color": "#ea5506",
+      "romaji": "Aka Daidai",
+      "kanji": "赤橙",
+      "eng": "Red Orange"
+  },
+  {
+      "color": "#ea5506",
+      "romaji": "Kinaka",
+      "kanji": "金赤",
+      "eng": "Golden Red"
+  },
+  {
+      "color": "#eb6101",
+      "romaji": "Shu",
+      "kanji": "朱色",
+      "eng": "Vermilion"
+  },
+  {
+      "color": "#e49e61",
+      "romaji": "Komugi",
+      "kanji": "小麦色",
+      "eng": "Wheat"
+  },
+  {
+      "color": "#e45e32",
+      "romaji": "Ni",
+      "kanji": "丹色",
+      "eng": "Cinnabar"
+  },
+  {
+      "color": "#e17b34",
+      "romaji": "Kicha",
+      "kanji": "黄茶",
+      "eng": "Yellow Tea"
+  },
+  {
+      "color": "#dd7a56",
+      "romaji": "Nikkei Iro",
+      "kanji": "肉桂色",
+      "eng": "Cinnamon"
+  },
+  {
+      "color": "#db8449",
+      "romaji": "Akakuchiba Iro",
+      "kanji": "赤朽葉色",
+      "eng": "Red Decayed Leaf"
+  },
+  {
+      "color": "#d66a35",
+      "romaji": "Kihada Zome",
+      "kanji": "黄櫨染",
+      "eng": "Yellow Dye"
+  },
+  {
+      "color": "#ffd900",
+      "romaji": "Tanpopo Iro",
+      "kanji": "蒲公英色",
+      "eng": "Dandelion"
+  },
+  {
+      "color": "#ffd900",
+      "romaji": "Kiiro",
+      "kanji": "黄色",
+      "eng": "Yellow"
+  },
+  {
+      "color": "#ffea00",
+      "romaji": "Chūki",
+      "kanji": "中黄",
+      "eng": "Medium Yellow"
+  },
+  {
+      "color": "#ffec47",
+      "romaji": "Na No Hana Iro",
+      "kanji": "菜の花色",
+      "eng": "Rapeseed"
+  },
+  {
+      "color": "#fef263",
+      "romaji": "Kihada Iro",
+      "kanji": "黄檗色",
+      "eng": "Amur Cork Tree"
+  },
+  {
+      "color": "#fcd575",
+      "romaji": "Tamago Iro",
+      "kanji": "卵色",
+      "eng": "Egg"
+  },
+  {
+      "color": "#fbd26b",
+      "romaji": "Hanaba Iro",
+      "kanji": "花葉色",
+      "eng": "Flower Leaf"
+  },
+  {
+      "color": "#f5e56b",
+      "romaji": "Kariyasu Iro",
+      "kanji": "刈安色",
+      "eng": "Ripe Rice"
+  },
+  {
+      "color": "#eec362",
+      "romaji": "Tamamorokoshi Iro",
+      "kanji": "玉蜀黍色",
+      "eng": "Corn"
+  },
+  {
+      "color": "#ebd842",
+      "romaji": "Kanaria Iro",
+      "kanji": "金糸雀色",
+      "eng": "Canary"
+  },
+  {
+      "color": "#ffdb4f",
+      "romaji": "Kikuchinashi Iro",
+      "kanji": "黄支子色",
+      "eng": "Yellow Gardenia"
+  },
+  {
+      "color": "#fbca4d",
+      "romaji": "Kuchinashi Iro",
+      "kanji": "支子色",
+      "eng": "Gardenia"
+  },
+  {
+      "color": "#fcc800",
+      "romaji": "Himawari Iro",
+      "kanji": "向日葵色",
+      "eng": "Sunflower"
+  },
+  {
+      "color": "#f8b500",
+      "romaji": "Yamabuki Iro",
+      "kanji": "山吹色",
+      "eng": "Goldenrod"
+  },
+  {
+      "color": "#fabf14",
+      "romaji": "Ukon Iro",
+      "kanji": "鬱金色",
+      "eng": "Turmeric"
+  },
+  {
+      "color": "#f7c114",
+      "romaji": "Tōō",
+      "kanji": "藤黄",
+      "eng": "Gamboge"
+  },
+  {
+      "color": "#e6b422",
+      "romaji": "Kin Iro",
+      "kanji": "金色",
+      "eng": "Yellow"
+  },
+  {
+      "color": "#e6b422",
+      "romaji": "Kogane",
+      "kanji": "黄金",
+      "eng": "Gold"
+  },
+  {
+      "color": "#d9a62e",
+      "romaji": "Hajizome",
+      "kanji": "櫨染",
+      "eng": "Pagoda Tree Dye"
+  },
+  {
+      "color": "#d3a243",
+      "romaji": "Kikuchiba",
+      "kanji": "黄朽葉色",
+      "eng": "Decayed Leaf"
+  },
+  {
+      "color": "#c89932",
+      "romaji": "Yamabukicha",
+      "kanji": "山吹茶",
+      "eng": "Golden Tea"
+  },
+  {
+      "color": "#d0af4c",
+      "romaji": "Karashi",
+      "kanji": "芥子色",
+      "eng": "Mustard"
+  },
+  {
+      "color": "#8b968d",
+      "romaji": "Mamegaracha",
+      "kanji": "豆がら茶",
+      "eng": "Bean Husk Tea"
+  },
+  {
+      "color": "#6e7955",
+      "romaji": "Kojiro",
+      "kanji": "麹塵",
+      "eng": "Malt Dust"
+  },
+  {
+      "color": "#767c6b",
+      "romaji": "Hatobairo",
+      "kanji": "山鳩色",
+      "eng": "Pigeon"
+  },
+  {
+      "color": "#888e7e",
+      "romaji": "Rikyu Nezumi",
+      "kanji": "利休鼠",
+      "eng": "Grayish Dark Green"
+  },
+  {
+      "color": "#5a544b",
+      "romaji": "Miruocha",
+      "kanji": "海松茶",
+      "eng": "Sea Pine Tea"
+  },
+  {
+      "color": "#56564b",
+      "romaji": "Aimiruocha",
+      "kanji": "藍海松茶",
+      "eng": "Indigo Sea Pine Tea"
+  },
+  {
+      "color": "#555647",
+      "romaji": "Aikobicha",
+      "kanji": "藍媚茶",
+      "eng": "Indigo Flattering Tea"
+  },
+  {
+      "color": "#494a41",
+      "romaji": "Sensaicha",
+      "kanji": "千歳茶",
+      "eng": "Thousand Years Tea"
+  },
+  {
+      "color": "#6b6f59",
+      "romaji": "Iwaicha",
+      "kanji": "岩井茶",
+      "eng": "Rock Well Tea"
+  },
+  {
+      "color": "#474b42",
+      "romaji": "Sensaicha",
+      "kanji": "仙斎茶",
+      "eng": "Hermit's Tea"
+  },
+  {
+      "color": "#333631",
+      "romaji": "Kuro Midori",
+      "kanji": "黒緑",
+      "eng": "Black Green"
+  },
+  {
+      "color": "#5b6356",
+      "romaji": "Yanagisusutake",
+      "kanji": "柳煤竹",
+      "eng": "Willow Charcoal Bamboo"
+  },
+  {
+      "color": "#726250",
+      "romaji": "Kabacha",
+      "kanji": "樺茶色",
+      "eng": "Birch Tea"
+  },
+  {
+      "color": "#9d896c",
+      "romaji": "Ukonzome",
+      "kanji": "空五倍子色",
+      "eng": "Gallnut Dye"
+  },
+  {
+      "color": "#94846a",
+      "romaji": "Namakabe",
+      "kanji": "生壁色",
+      "eng": "Raw Wall"
+  },
+  {
+      "color": "#897858",
+      "romaji": "Higo Susutake",
+      "kanji": "肥後煤竹",
+      "eng": "Higo Soot Bamboo"
+  },
+  {
+      "color": "#716246",
+      "romaji": "Kobicha",
+      "kanji": "媚茶",
+      "eng": "Flirtatious Tea"
+  },
+  {
+      "color": "#cbb994",
+      "romaji": "Shirotsurubami",
+      "kanji": "白橡",
+      "eng": "White Oak"
+  },
+  {
+      "color": "#d6c6af",
+      "romaji": "Ama Iro",
+      "kanji": "亜麻色",
+      "eng": "Flax"
+  },
+  {
+      "color": "#bfa46f",
+      "romaji": "Haizakura",
+      "kanji": "榛色",
+      "eng": "Hazelnut"
+  },
+  {
+      "color": "#9e9478",
+      "romaji": "Aku Iro",
+      "kanji": "灰汁色",
+      "eng": "Ash Lye"
+  },
+  {
+      "color": "#a59564",
+      "romaji": "Rikyūcha",
+      "kanji": "利休茶",
+      "eng": "Rikyū Tea"
+  },
+  {
+      "color": "#715c1f",
+      "romaji": "Uguisucha",
+      "kanji": "鶯茶",
+      "eng": "Warbler Tea"
+  },
+  {
+      "color": "#c7b370",
+      "romaji": "Mokuran Iro",
+      "kanji": "木蘭色",
+      "eng": "Magnolia"
+  },
+  {
+      "color": "#dcd3b2",
+      "romaji": "Suna Iro",
+      "kanji": "砂色",
+      "eng": "Sand"
+  },
+  {
+      "color": "#a19361",
+      "romaji": "Abura Iro",
+      "kanji": "油色",
+      "eng": "Oil"
+  },
+  {
+      "color": "#8f8667",
+      "romaji": "Rikyū Iro",
+      "kanji": "利休色",
+      "eng": "Greenish Gray"
+  },
+  {
+      "color": "#887938",
+      "romaji": "Baikōcha",
+      "kanji": "梅幸茶",
+      "eng": "Baiko Brown"
+  },
+  {
+      "color": "#6a5d21",
+      "romaji": "Rikan Cha",
+      "kanji": "璃寛茶",
+      "eng": "Rikan Tea Brown"
+  },
+  {
+      "color": "#918754",
+      "romaji": "Kimirōcha",
+      "kanji": "黄海松茶",
+      "eng": "Yellow Pine Tea"
+  },
+  {
+      "color": "#a69425",
+      "romaji": "Natane Abura Iro",
+      "kanji": "菜種油色",
+      "eng": "Rapeseed Oil"
+  },
+  {
+      "color": "#ada250",
+      "romaji": "Aokuchiba",
+      "kanji": "青朽葉",
+      "eng": "Blue Decayed Leaf"
+  },
+  {
+      "color": "#938b4b",
+      "romaji": "Negishi Iro",
+      "kanji": "根岸色",
+      "eng": "Negishi"
+  },
+  {
+      "color": "#8c8861",
+      "romaji": "Hiwacha",
+      "kanji": "鶸茶",
+      "eng": "Greenfinch Tea"
+  },
+  {
+      "color": "#a1a46d",
+      "romaji": "Yanagicha",
+      "kanji": "柳茶",
+      "eng": "Willow Tea"
+  },
+  {
+      "color": "#726d40",
+      "romaji": "Miru Iro",
+      "kanji": "海松色",
+      "eng": "Pine Tree"
+  },
+  {
+      "color": "#928c36",
+      "romaji": "Uguisu",
+      "kanji": "鶯色",
+      "eng": "Bush Warbler"
+  },
+  {
+      "color": "#dccb18",
+      "romaji": "Ryokuō",
+      "kanji": "緑黄色",
+      "eng": "Green Yellow"
+  },
+  {
+      "color": "#d7cf3a",
+      "romaji": "Hiwa",
+      "kanji": "鶸色",
+      "eng": "Canary"
+  },
+  {
+      "color": "#c5c56a",
+      "romaji": "Matcha",
+      "kanji": "抹茶色",
+      "eng": "Matcha Green Tea"
+  },
+  {
+      "color": "#c3d825",
+      "romaji": "Wakakusa",
+      "kanji": "若草色",
+      "eng": "Young Grass"
+  },
+  {
+      "color": "#b8d200",
+      "romaji": "Kimidori",
+      "kanji": "黄緑",
+      "eng": "Yellow Green"
+  },
+  {
+      "color": "#e0ebaf",
+      "romaji": "Wakame",
+      "kanji": "若芽色",
+      "eng": "Young Bud"
+  },
+  {
+      "color": "#d8e698",
+      "romaji": "Wakana",
+      "kanji": "若菜色",
+      "eng": "Young Greens"
+  },
+  {
+      "color": "#c7dc68",
+      "romaji": "Wakanae",
+      "kanji": "若苗色",
+      "eng": "Young Seedling"
+  },
+  {
+      "color": "#99ab4e",
+      "romaji": "Aoni",
+      "kanji": "青丹",
+      "eng": "Blue Tannin"
+  },
+  {
+      "color": "#7b8d42",
+      "romaji": "Kusairo",
+      "kanji": "草色",
+      "eng": "Grass"
+  },
+  {
+      "color": "#69821b",
+      "romaji": "Koke",
+      "kanji": "苔色",
+      "eng": "Moss"
+  },
+  {
+      "color": "#aacf53",
+      "romaji": "Moegi",
+      "kanji": "萌黄",
+      "eng": "Fresh Green"
+  },
+  {
+      "color": "#b0ca71",
+      "romaji": "Nae",
+      "kanji": "苗色",
+      "eng": "Seedling"
+  },
+  {
+      "color": "#b9d08b",
+      "romaji": "Wakaba",
+      "kanji": "若葉色",
+      "eng": "Fresh Leaves"
+  },
+  {
+      "color": "#839b5c",
+      "romaji": "Matsuba",
+      "kanji": "松葉色",
+      "eng": "Pine Needle"
+  },
+  {
+      "color": "#cee4ae",
+      "romaji": "Natsumushi",
+      "kanji": "夏虫色",
+      "eng": "Summer Insect"
+  },
+  {
+      "color": "#82ae46",
+      "romaji": "Hiwamoegi",
+      "kanji": "鶸萌黄",
+      "eng": "Canary Fresh Green"
+  },
+  {
+      "color": "#a8c97f",
+      "romaji": "Yanagi",
+      "kanji": "柳色",
+      "eng": "Willow"
+  },
+  {
+      "color": "#9ba88d",
+      "romaji": "Aoshirotsurubami",
+      "kanji": "青白橡",
+      "eng": "Blue White Oak"
+  },
+  {
+      "color": "#c8d5bb",
+      "romaji": "Yanaginezumi",
+      "kanji": "柳鼠",
+      "eng": "Willow Mouse"
+  },
+  {
+      "color": "#c1d8ac",
+      "romaji": "Uraha Yanagi",
+      "kanji": "裏葉柳",
+      "eng": "Backside Willow"
+  },
+  {
+      "color": "#a8bf93",
+      "romaji": "Wasabi Iro",
+      "kanji": "山葵色",
+      "eng": "Wasabi"
+  },
+  {
+      "color": "#769164",
+      "romaji": "Oitake Iro",
+      "kanji": "老竹色",
+      "eng": "Old Bamboo"
+  },
+  {
+      "color": "#d6e9ca",
+      "romaji": "Byakuroku",
+      "kanji": "白緑",
+      "eng": "White Green"
+  },
+  {
+      "color": "#93ca76",
+      "romaji": "Tan Moegi",
+      "kanji": "淡萌黄",
+      "eng": "Pale Moegi"
+  },
+  {
+      "color": "#93b881",
+      "romaji": "Yanagizome",
+      "kanji": "柳染",
+      "eng": "Willow Dye"
+  },
+  {
+      "color": "#badcad",
+      "romaji": "Usu Moegi",
+      "kanji": "薄萌葱",
+      "eng": "Light Moegi"
+  },
+  {
+      "color": "#97a791",
+      "romaji": "Fukagawanezumi",
+      "kanji": "深川鼠",
+      "eng": "Fukagawa Mouse"
+  },
+  {
+      "color": "#98d98e",
+      "romaji": "Wakamidori",
+      "kanji": "若緑",
+      "eng": "Young Green"
+  },
+  {
+      "color": "#88cb7f",
+      "romaji": "Asamidori",
+      "kanji": "浅緑",
+      "eng": "Light Green"
+  },
+  {
+      "color": "#69b076",
+      "romaji": "Usumidori",
+      "kanji": "薄緑",
+      "eng": "Thin Green"
+  },
+  {
+      "color": "#6b7b6e",
+      "romaji": "Aonibi",
+      "kanji": "青鈍",
+      "eng": "Blue Dull"
+  },
+  {
+      "color": "#bed2c3",
+      "romaji": "Seijinezu",
+      "kanji": "青磁鼠",
+      "eng": "Celadon Mouse"
+  },
+  {
+      "color": "#93b69c",
+      "romaji": "Usuao",
+      "kanji": "薄青",
+      "eng": "Pale Blue"
+  },
+  {
+      "color": "#a6c8b2",
+      "romaji": "Sabiseiji",
+      "kanji": "錆青磁",
+      "eng": "Rusty Celadon"
+  },
+  {
+      "color": "#47885e",
+      "romaji": "Rokushō Iro",
+      "kanji": "緑青色",
+      "eng": "Green Blue"
+  },
+  {
+      "color": "#316745",
+      "romaji": "Chitosemidori",
+      "kanji": "千歳緑",
+      "eng": "Thousand Year Green"
+  },
+  {
+      "color": "#68be8d",
+      "romaji": "Wakatake Iro",
+      "kanji": "若竹色",
+      "eng": "Young Bamboo"
+  },
+  {
+      "color": "#3eb370",
+      "romaji": "Midori",
+      "kanji": "緑",
+      "eng": "Green"
+  },
+  {
+      "color": "#007b43",
+      "romaji": "Tokiwairo",
+      "kanji": "常磐色",
+      "eng": "Evergreen"
+  },
+  {
+      "color": "#bed3ca",
+      "romaji": "Chigusanezumi",
+      "kanji": "千草鼠",
+      "eng": "Thousand Grass Gray"
+  },
+  {
+      "color": "#92b5a9",
+      "romaji": "Chigusairo",
+      "kanji": "千草色",
+      "eng": "Thousand Grass"
+  },
+  {
+      "color": "#7ebea5",
+      "romaji": "Seijiiro",
+      "kanji": "青磁色",
+      "eng": "Celadon"
+  },
+  {
+      "color": "#7ebeab",
+      "romaji": "Aotakeiro",
+      "kanji": "青竹色",
+      "eng": "Blue Bamboo"
+  },
+  {
+      "color": "#028760",
+      "romaji": "Tokiwamidori",
+      "kanji": "常磐緑",
+      "eng": "Evergreen"
+  },
+  {
+      "color": "#3b7960",
+      "romaji": "Tokuasairo",
+      "kanji": "木賊色",
+      "eng": "Horsetail"
+  },
+  {
+      "color": "#2f5d50",
+      "romaji": "Birodo",
+      "kanji": "天鵞絨",
+      "eng": "Velvet"
+  },
+  {
+      "color": "#3a5b52",
+      "romaji": "Mushiao",
+      "kanji": "虫襖",
+      "eng": "Insect Kimono"
+  },
+  {
+      "color": "#475950",
+      "romaji": "Kawairo",
+      "kanji": "革色",
+      "eng": "Leather"
+  },
+  {
+      "color": "#00552e",
+      "romaji": "Fukamidori",
+      "kanji": "深緑",
+      "eng": "Deep Green"
+  },
+  {
+      "color": "#005243",
+      "romaji": "Tetsuiro",
+      "kanji": "鉄色",
+      "eng": "Iron"
+  },
+  {
+      "color": "#006e54",
+      "romaji": "Moegi",
+      "kanji": "萌葱色",
+      "eng": "Sprout"
+  },
+  {
+      "color": "#00a381",
+      "romaji": "Hanarokushō",
+      "kanji": "花緑青",
+      "eng": "Floral Blue Green"
+  },
+  {
+      "color": "#38b48b",
+      "romaji": "Hisuiiro",
+      "kanji": "翡翠色",
+      "eng": "Jade"
+  },
+  {
+      "color": "#00a497",
+      "romaji": "Aomidori",
+      "kanji": "青緑",
+      "eng": "Turquoise"
+  },
+  {
+      "color": "#80aba9",
+      "romaji": "Mizuasagi",
+      "kanji": "水浅葱",
+      "eng": "Light Blue Onion"
+  },
+  {
+      "color": "#5c9291",
+      "romaji": "Sabiasagi",
+      "kanji": "錆浅葱",
+      "eng": "Rusty Light Blue Onion"
+  },
+  {
+      "color": "#478384",
+      "romaji": "Seiheki",
+      "kanji": "青碧",
+      "eng": "Blue Green"
+  },
+  {
+      "color": "#43676b",
+      "romaji": "Omeshicha",
+      "kanji": "御召茶",
+      "eng": "Imperial Tea"
+  },
+  {
+      "color": "#80989b",
+      "romaji": "Minatonezumi",
+      "kanji": "湊鼠",
+      "eng": "Minato Gray"
+  },
+  {
+      "color": "#2c4f54",
+      "romaji": "Kōraionando",
+      "kanji": "高麗納戸",
+      "eng": "Koryo Indigo"
+  },
+  {
+      "color": "#1f3134",
+      "romaji": "Hyakuirecha",
+      "kanji": "百入茶",
+      "eng": "Hundredfold Tea"
+  },
+  {
+      "color": "#47585c",
+      "romaji": "Sabinezumi",
+      "kanji": "錆鼠",
+      "eng": "Rusty Gray"
+  },
+  {
+      "color": "#485859",
+      "romaji": "Sabitetuonando",
+      "kanji": "錆鉄御納戸",
+      "eng": "Rust Iron Nando"
+  },
+  {
+      "color": "#6c848d",
+      "romaji": "Ainezumi",
+      "kanji": "藍鼠",
+      "eng": "Indigo Gray"
+  },
+  {
+      "color": "#53727d",
+      "romaji": "Sabionando",
+      "kanji": "錆御納戸",
+      "eng": "Rust Nando"
+  },
+  {
+      "color": "#5b7e91",
+      "romaji": "Masuhanairo",
+      "kanji": "舛花色",
+      "eng": "Masu Flower"
+  },
+  {
+      "color": "#426579",
+      "romaji": "Noshimehanairo",
+      "kanji": "熨斗目花色",
+      "eng": "Noshi Flower"
+  },
+  {
+      "color": "#4c6473",
+      "romaji": "Omeshionando",
+      "kanji": "御召御納戸",
+      "eng": "Imperial Nando"
+  },
+  {
+      "color": "#455765",
+      "romaji": "Tetsonando",
+      "kanji": "鉄御納戸",
+      "eng": "Iron Nando"
+  },
+  {
+      "color": "#44617b",
+      "romaji": "Konnezumi",
+      "kanji": "紺鼠",
+      "eng": "Dark Gray"
+  },
+  {
+      "color": "#393f4c",
+      "romaji": "Aitetu",
+      "kanji": "藍鉄",
+      "eng": "Indigo Iron"
+  },
+  {
+      "color": "#393e4f",
+      "romaji": "Aokachi",
+      "kanji": "青褐",
+      "eng": "Blue Brown"
+  },
+  {
+      "color": "#203744",
+      "romaji": "Kachigaeshi",
+      "kanji": "褐返",
+      "eng": "Brown Return"
+  },
+  {
+      "color": "#4d4c61",
+      "romaji": "Kasshoku",
+      "kanji": "褐色",
+      "eng": "Brown"
+  },
+  {
+      "color": "#eaf4fc",
+      "romaji": "Getsushiro",
+      "kanji": "月白",
+      "eng": "Moon White"
+  },
+  {
+      "color": "#eaedf7",
+      "romaji": "Shirosumireiro",
+      "kanji": "白菫色",
+      "eng": "White Violet"
+  },
+  {
+      "color": "#e8ecef",
+      "romaji": "Shirahanairo",
+      "kanji": "白花色",
+      "eng": "White Flower"
+  },
+  {
+      "color": "#ebf6f7",
+      "romaji": "Aishiro",
+      "kanji": "藍白",
+      "eng": "Indigo White"
+  },
+  {
+      "color": "#c1e4e9",
+      "romaji": "Byakuro",
+      "kanji": "白藍",
+      "eng": "White Indigo"
+  },
+  {
+      "color": "#bce2e8",
+      "romaji": "Mizuiro",
+      "kanji": "水色",
+      "eng": "Light Blue"
+  },
+  {
+      "color": "#a2d7dd",
+      "romaji": "Kamenozoki",
+      "kanji": "瓶覗",
+      "eng": "Bottle Inspection"
+  },
+  {
+      "color": "#abced8",
+      "romaji": "Hisoku",
+      "kanji": "秘色色",
+      "eng": "Secret"
+  },
+  {
+      "color": "#a0d8ef",
+      "romaji": "Sorairo",
+      "kanji": "空色",
+      "eng": "Sky Blue"
+  },
+  {
+      "color": "#89c3eb",
+      "romaji": "Wasurenagusairo",
+      "kanji": "勿忘草色",
+      "eng": "Forget-Me-Not"
+  },
+  {
+      "color": "#84a2d4",
+      "romaji": "Aofujiro",
+      "kanji": "青藤色",
+      "eng": "Blue Wisteria"
+  },
+  {
+      "color": "#83ccd2",
+      "romaji": "Byakugun",
+      "kanji": "白群",
+      "eng": "White Herd"
+  },
+  {
+      "color": "#84b9cb",
+      "romaji": "Asahanada",
+      "kanji": "浅縹",
+      "eng": "Light Indigo"
+  },
+  {
+      "color": "#698aab",
+      "romaji": "Usuhanairo",
+      "kanji": "薄花色",
+      "eng": "Light Flower"
+  },
+  {
+      "color": "#008899",
+      "romaji": "Nandairo",
+      "kanji": "納戸色",
+      "eng": "Nando"
+  },
+  {
+      "color": "#00a3af",
+      "romaji": "Asagiiro",
+      "kanji": "浅葱色",
+      "eng": "Light Onion"
+  },
+  {
+      "color": "#2a83a2",
+      "romaji": "Hanaasagiiro",
+      "kanji": "花浅葱",
+      "eng": "Flower Onion"
+  },
+  {
+      "color": "#59b9c6",
+      "romaji": "Shinbashi-iro",
+      "kanji": "新橋色",
+      "eng": "Shinbashi"
+  },
+  {
+      "color": "#2ca9e1",
+      "romaji": "Amairo",
+      "kanji": "天色",
+      "eng": "Heavenly"
+  },
+  {
+      "color": "#38a1db",
+      "romaji": "Tsuyukusairo",
+      "kanji": "露草色",
+      "eng": "Dew Grass"
+  },
+  {
+      "color": "#0095d9",
+      "romaji": "Ao",
+      "kanji": "青",
+      "eng": "Blue"
+  },
+  {
+      "color": "#0094c8",
+      "romaji": "Usuao",
+      "kanji": "薄藍",
+      "eng": "Pale Blue"
+  },
+  {
+      "color": "#2792c3",
+      "romaji": "Hanada",
+      "kanji": "縹色",
+      "eng": "Indigo"
+  },
+  {
+      "color": "#007bbb",
+      "romaji": "Konpeki",
+      "kanji": "紺碧",
+      "eng": "Deep Blue"
+  },
+  {
+      "color": "#5383c3",
+      "romaji": "Usugunjō",
+      "kanji": "薄群青",
+      "eng": "Light Ultramarine"
+  },
+  {
+      "color": "#5a79ba",
+      "romaji": "Usuhanazakura",
+      "kanji": "薄花桜",
+      "eng": "Light Cherry Blossom"
+  },
+  {
+      "color": "#4c6cb3",
+      "romaji": "Gunjōiro",
+      "kanji": "群青色",
+      "eng": "Ultramarine Blue"
+  },
+  {
+      "color": "#3e62ad",
+      "romaji": "Kakitsubatairo",
+      "kanji": "杜若色",
+      "eng": "Iris"
+  },
+  {
+      "color": "#1e50a2",
+      "romaji": "Ruriiro",
+      "kanji": "瑠璃色",
+      "eng": "Lapis Lazuli"
+  },
+  {
+      "color": "#507ea4",
+      "romaji": "Usuhanada",
+      "kanji": "薄縹",
+      "eng": "Pale Indigo"
+  },
+  {
+      "color": "#19448e",
+      "romaji": "Rurikon",
+      "kanji": "瑠璃紺",
+      "eng": "Lapis Lazuli Blue"
+  },
+  {
+      "color": "#164a84",
+      "romaji": "Konruri",
+      "kanji": "紺瑠璃",
+      "eng": "Deep Lapis Lazuli"
+  },
+  {
+      "color": "#165e83",
+      "romaji": "Aiiro",
+      "kanji": "藍色",
+      "eng": "Indigo Blue"
+  },
+  {
+      "color": "#274a78",
+      "romaji": "Aofuji",
+      "kanji": "青藍",
+      "eng": "Blue Indigo"
+  },
+  {
+      "color": "#2a4073",
+      "romaji": "Fukahanada",
+      "kanji": "深縹",
+      "eng": "Deep Indigo"
+  },
+  {
+      "color": "#223a70",
+      "romaji": "Koniro",
+      "kanji": "紺色",
+      "eng": "Navy Blue"
+  },
+  {
+      "color": "#192f60",
+      "romaji": "Konjō",
+      "kanji": "紺青",
+      "eng": "Dark Blue"
+  },
+  {
+      "color": "#1c305c",
+      "romaji": "Tomoniro",
+      "kanji": "留紺",
+      "eng": "Fixed Blue"
+  },
+  {
+      "color": "#0f2350",
+      "romaji": "Nōkon",
+      "kanji": "濃藍",
+      "eng": "Dark Indigo"
+  },
+  {
+      "color": "#17184b",
+      "romaji": "Tetsukon",
+      "kanji": "鉄紺",
+      "eng": "Iron Blue"
+  },
+  {
+      "color": "#0d0015",
+      "romaji": "Shikkoku",
+      "kanji": "漆黒",
+      "eng": "Jet Black"
+  },
+  {
+      "color": "#bbc8e6",
+      "romaji": "Awafujiro",
+      "kanji": "淡藤色",
+      "eng": "Light Wisteria"
+  },
+  {
+      "color": "#bbbcde",
+      "romaji": "Fujiiro",
+      "kanji": "藤色",
+      "eng": "Wisteria"
+  },
+  {
+      "color": "#8491c3",
+      "romaji": "Benikakesorairo",
+      "kanji": "紅掛空色",
+      "eng": "Red Over Sky Blue"
+  },
+  {
+      "color": "#8491c3",
+      "romaji": "Benihako",
+      "kanji": "紅碧",
+      "eng": "Red Blue"
+  },
+  {
+      "color": "#4d5aaf",
+      "romaji": "Konkikyō",
+      "kanji": "紺桔梗",
+      "eng": "Dark Kikyo"
+  },
+  {
+      "color": "#4d5aaf",
+      "romaji": "Hanairo",
+      "kanji": "花色",
+      "eng": "Flower"
+  },
+  {
+      "color": "#4a488e",
+      "romaji": "Konai",
+      "kanji": "紺藍",
+      "eng": "Dark Indigo"
+  },
+  {
+      "color": "#4d4398",
+      "romaji": "Benikikyō",
+      "kanji": "紅桔梗",
+      "eng": "Red Kikyo"
+  },
+  {
+      "color": "#5654a2",
+      "romaji": "Kikyōiro",
+      "kanji": "桔梗色",
+      "eng": "Kikyo"
+  },
+  {
+      "color": "#706caa",
+      "romaji": "Fujionando",
+      "kanji": "藤納戸",
+      "eng": "Wisteria Nando"
+  },
+  {
+      "color": "#68699b",
+      "romaji": "Benikakehanairo",
+      "kanji": "紅掛花色",
+      "eng": "Red Over Flower"
+  },
+  {
+      "color": "#867ba9",
+      "romaji": "Shioniro",
+      "kanji": "紫苑色",
+      "eng": "Shion"
+  },
+  {
+      "color": "#dbd0e6",
+      "romaji": "Shirafujiiro",
+      "kanji": "白藤色",
+      "eng": "White Wisteria"
+  },
+  {
+      "color": "#a59aca",
+      "romaji": "Fujimurasaki",
+      "kanji": "藤紫",
+      "eng": "Wisteria Purple"
+  },
+  {
+      "color": "#7058a3",
+      "romaji": "Sumireiro",
+      "kanji": "菫色",
+      "eng": "Sumire"
+  },
+  {
+      "color": "#674598",
+      "romaji": "Aomurasaki",
+      "kanji": "青紫",
+      "eng": "Blue Purple"
+  },
+  {
+      "color": "#674196",
+      "romaji": "Shobuiro",
+      "kanji": "菖蒲色",
+      "eng": "Shobu"
+  },
+  {
+      "color": "#9079ad",
+      "romaji": "Rindōiro",
+      "kanji": "竜胆色",
+      "eng": "Rindo"
+  },
+  {
+      "color": "#745399",
+      "romaji": "Edomurasaki",
+      "kanji": "江戸紫",
+      "eng": "Edo Purple"
+  },
+  {
+      "color": "#65318e",
+      "romaji": "Homurasaki",
+      "kanji": "本紫",
+      "eng": "Hon Purple"
+  },
+  {
+      "color": "#522f60",
+      "romaji": "Budōiro",
+      "kanji": "葡萄色",
+      "eng": "Grape"
+  },
+  {
+      "color": "#493759",
+      "romaji": "Fukamurasaki",
+      "kanji": "深紫",
+      "eng": "Deep Purple"
+  },
+  {
+      "color": "#2e2930",
+      "romaji": "Shikoku",
+      "kanji": "紫黒",
+      "eng": "Purple Black"
+  },
+  {
+      "color": "#884898",
+      "romaji": "Murasaki",
+      "kanji": "紫",
+      "eng": "Purple"
+  },
+  {
+      "color": "#c0a2c7",
+      "romaji": "Usu Budō",
+      "kanji": "薄葡萄",
+      "eng": "Light Grape"
+  },
+  {
+      "color": "#460e44",
+      "romaji": "Shikon",
+      "kanji": "紫紺",
+      "eng": "Purple Navy"
+  },
+  {
+      "color": "#74325c",
+      "romaji": "Ankōshoku",
+      "kanji": "暗紅色",
+      "eng": "Dark Red"
+  },
+  {
+      "color": "#55295b",
+      "romaji": "Kuwanomi Iro",
+      "kanji": "桑の実色",
+      "eng": "Mulberry"
+  },
+  {
+      "color": "#895b8a",
+      "romaji": "Kodai Murasaki",
+      "kanji": "古代紫",
+      "eng": "Ancient Purple"
+  },
+  {
+      "color": "#824880",
+      "romaji": "Nasukon",
+      "kanji": "茄子紺",
+      "eng": "Eggplant Navy"
+  },
+  {
+      "color": "#915c8b",
+      "romaji": "Futaai",
+      "kanji": "二藍",
+      "eng": "Double Indigo"
+  },
+  {
+      "color": "#9d5b8b",
+      "romaji": "Kyō Murasaki",
+      "kanji": "京紫",
+      "eng": "Kyoto Purple"
+  },
+  {
+      "color": "#7a4171",
+      "romaji": "Gama Budō",
+      "kanji": "蒲葡",
+      "eng": "Bullrush Grape"
+  },
+  {
+      "color": "#bc64a4",
+      "romaji": "Waka Murasaki",
+      "kanji": "若紫",
+      "eng": "Young Purple"
+  },
+  {
+      "color": "#b44c97",
+      "romaji": "Beni Murasaki",
+      "kanji": "紅紫",
+      "eng": "Crimson Purple"
+  },
+  {
+      "color": "#aa4c8f",
+      "romaji": "Ume Murasaki",
+      "kanji": "梅紫",
+      "eng": "Plum Purple"
+  },
+  {
+      "color": "#cc7eb1",
+      "romaji": "Shōbu Iro",
+      "kanji": "菖蒲色",
+      "eng": "Iris Color"
+  },
+  {
+      "color": "#cca6bf",
+      "romaji": "Beni Fuji Iro",
+      "kanji": "紅藤色",
+      "eng": "Crimson Wisteria"
+  },
+  {
+      "color": "#c4a3bf",
+      "romaji": "Asa Murasaki",
+      "kanji": "浅紫",
+      "eng": "Light Purple"
+  },
+  {
+      "color": "#e7e7eb",
+      "romaji": "Murasaki Suishō",
+      "kanji": "紫水晶",
+      "eng": "Amethyst"
+  },
+  {
+      "color": "#dcd6d9",
+      "romaji": "Usu Ume Nezumi",
+      "kanji": "薄梅鼠",
+      "eng": "Light Plum Gray"
+  },
+  {
+      "color": "#d3cfd9",
+      "romaji": "Akatsuki Nezumi",
+      "kanji": "暁鼠",
+      "eng": "Dawn Gray"
+  },
+  {
+      "color": "#d3ccd6",
+      "romaji": "Botan Nezumi",
+      "kanji": "牡丹鼠",
+      "eng": "Peony Gray"
+  },
+  {
+      "color": "#c8c2c6",
+      "romaji": "Kasumi Iro",
+      "kanji": "霞色",
+      "eng": "Mist Color"
+  },
+  {
+    "color": "#a6a5c4",
+    "romaji": "Fujinezumi",
+    "kanji": "藤鼠",
+    "eng": "Wisteria Gray"
+  },
+  {
+      "color": "#a69abd",
+      "romaji": "Hashoku",
+      "kanji": "半色",
+      "eng": "Half Color"
+  },
+  {
+      "color": "#a89dac",
+      "romaji": "Usu Iro",
+      "kanji": "薄色",
+      "eng": "Light Color"
+  },
+  {
+      "color": "#9790a4",
+      "romaji": "Usu Nezumi",
+      "kanji": "薄鼠",
+      "eng": "Light Gray"
+  },
+  {
+      "color": "#9e8b8e",
+      "romaji": "Hatobanezumi",
+      "kanji": "鳩羽鼠",
+      "eng": "Dove Feather Gray"
+  },
+  {
+      "color": "#95859c",
+      "romaji": "Hatoba Iro",
+      "kanji": "鳩羽色",
+      "eng": "Dove Feather Color"
+  },
+  {
+      "color": "#95949a",
+      "romaji": "Kikyōnezumi",
+      "kanji": "桔梗鼠",
+      "eng": "Bellflower Gray"
+  },
+  {
+      "color": "#71686c",
+      "romaji": "Murasakinezumi",
+      "kanji": "紫鼠",
+      "eng": "Purple Gray"
+  },
+  {
+      "color": "#705b67",
+      "romaji": "Budōnezumi",
+      "kanji": "葡萄鼠",
+      "eng": "Grape Gray"
+  },
+  {
+      "color": "#634950",
+      "romaji": "Koishoku",
+      "kanji": "濃色",
+      "eng": "Dark Gray Red"
+  },
+  {
+      "color": "#5f414b",
+      "romaji": "Murasakitobi",
+      "kanji": "紫鳶",
+      "eng": "Purple Black Kite"
+  },
+  {
+      "color": "#4f455c",
+      "romaji": "Koinezumi",
+      "kanji": "濃鼠",
+      "eng": "Dark Gray"
+  },
+  {
+      "color": "#5a5359",
+      "romaji": "Fujisusutake",
+      "kanji": "藤煤竹",
+      "eng": "Wisteria Soot Bamboo"
+  },
+  {
+      "color": "#594255",
+      "romaji": "Keshimurasaki",
+      "kanji": "滅紫",
+      "eng": "Extinguished Purple"
+  },
+  {
+      "color": "#524748",
+      "romaji": "Benikeshinezumi",
+      "kanji": "紅消鼠",
+      "eng": "Crimson Dim Gray"
+  },
+  {
+      "color": "#513743",
+      "romaji": "Nisemurasaki",
+      "kanji": "似せ紫",
+      "eng": "Imitated Purple"
+  },
+  {
+      "color": "#e6eae3",
+      "romaji": "Haikimidori",
+      "kanji": "灰黄緑",
+      "eng": "Ash Yellow Green"
+  },
+  {
+      "color": "#d4dcd6",
+      "romaji": "Sobagiriiro",
+      "kanji": "蕎麦切色",
+      "eng": "Buckwheat"
+  },
+  {
+      "color": "#d4dcda",
+      "romaji": "Usu Kumonezumi",
+      "kanji": "薄雲鼠",
+      "eng": "Light Cloud Gray"
+  },
+  {
+      "color": "#d3cbc6",
+      "romaji": "Kareno Iro",
+      "kanji": "枯野色",
+      "eng": "Withered Field"
+  },
+  {
+      "color": "#c8c2be",
+      "romaji": "Urumiiro",
+      "kanji": "潤色",
+      "eng": "Grayish Orange"
+  },
+  {
+    "color": "#b3ada0",
+    "romaji": "Rikyūshiracha",
+    "kanji": "利休白茶",
+    "eng": "Rikyu White Tea"
+  },
+  {
+    "color": "#a99e93",
+    "romaji": "Chanezumi",
+    "kanji": "茶鼠",
+    "eng": "Tea Gray"
+  },
+  {
+    "color": "#a58f86",
+    "romaji": "Kurumizome",
+    "kanji": "胡桃染",
+    "eng": "Walnut Dyed"
+  },
+  {
+    "color": "#928178",
+    "romaji": "Edonezumi",
+    "kanji": "江戸鼠",
+    "eng": "Edo Gray"
+  },
+  {
+    "color": "#887f7a",
+    "romaji": "Susuiro",
+    "kanji": "煤色",
+    "eng": "Soot"
+  },
+  {
+    "color": "#b4866b",
+    "romaji": "Chōjicha",
+    "kanji": "丁子茶",
+    "eng": "Clove Tea"
+  },
+  {
+    "color": "#b28c6e",
+    "romaji": "Shibazome",
+    "kanji": "柴染",
+    "eng": "Brushwood Dyed"
+  },
+  {
+    "color": "#a16d5d",
+    "romaji": "Sōdenkaracha",
+    "kanji": "宗伝唐茶",
+    "eng": "Ancestral Brown"
+  },
+  {
+    "color": "#9f6f55",
+    "romaji": "Tonocha",
+    "kanji": "砺茶",
+    "eng": "Whetstone Tea"
+  },
+  {
+    "color": "#8c6450",
+    "romaji": "Sencha Iro",
+    "kanji": "煎茶色",
+    "eng": "Roasted Tea"
+  },
+  {
+    "color": "#856859",
+    "romaji": "Ginsusutake",
+    "kanji": "銀煤竹",
+    "eng": "Silver Soot Bamboo"
+  },
+  {
+    "color": "#765c47",
+    "romaji": "Kigaracha",
+    "kanji": "黄枯茶",
+    "eng": "Yellow Withered Tea"
+  },
+  {
+    "color": "#6f514c",
+    "romaji": "Susutake Iro",
+    "kanji": "煤竹色",
+    "eng": "Soot Bamboo"
+  },
+  {
+    "color": "#6f4b3e",
+    "romaji": "Kogecha",
+    "kanji": "焦茶",
+    "eng": "Scorched Tea"
+  },
+  {
+    "color": "#544a47",
+    "romaji": "Kurotsurubami",
+    "kanji": "黒橡",
+    "eng": "Black Oak"
+  },
+  {
+    "color": "#543f32",
+    "romaji": "Kenpō Iro",
+    "kanji": "憲法色",
+    "eng": "Dark Grayish Orange"
+  },
+  {
+    "color": "#554738",
+    "romaji": "Netsu Iro",
+    "kanji": "涅色",
+    "eng": "Lacquer Tree"
+  },
+  {
+    "color": "#433d3c",
+    "romaji": "Binrōjizome",
+    "kanji": "檳榔子染",
+    "eng": "Areca Nut Dyed"
+  },
+  {
+    "color": "#432f2f",
+    "romaji": "Kurotobi",
+    "kanji": "黒鳶",
+    "eng": "Black Kite"
+  },
+  {
+    "color": "#3f312b",
+    "romaji": "Aka Sumi",
+    "kanji": "赤墨",
+    "eng": "Red Ink"
+  },
+  {
+    "color": "#302833",
+    "romaji": "Kurobeni",
+    "kanji": "黒紅",
+    "eng": "Black Crimson"
+  },
+  {
+    "color": "#ffffff",
+    "romaji": "Shiro",
+    "kanji": "白",
+    "eng": "White"
+  },
+  {
+    "color": "#fffffc",
+    "romaji": "Gofun Iro",
+    "kanji": "胡粉色",
+    "eng": "Chalk"
+  },
+  {
+    "color": "#f7fcfe",
+    "romaji": "Unohana Iro",
+    "kanji": "卯の花色",
+    "eng": "Deutzia Flower"
+  },
+  {
+    "color": "#f8fbf8",
+    "romaji": "Hakujiki",
+    "kanji": "白磁",
+    "eng": "Porcelain White"
+  },
+  {
+    "color": "#fbfaf5",
+    "romaji": "Kinari Iro",
+    "kanji": "生成り色",
+    "eng": "Unbleached"
+  },
+  {
+    "color": "#f3f3f3",
+    "romaji": "Nyuuhakushoku",
+    "kanji": "乳白色",
+    "eng": "Milky White"
+  },
+  {
+    "color": "#f3f3f2",
+    "romaji": "Shironeri",
+    "kanji": "白練",
+    "eng": "Refined White"
+  },
+  {
+    "color": "#eae5e3",
+    "romaji": "Soshoku",
+    "kanji": "素色",
+    "eng": "Plain Color"
+  },
+  {
+    "color": "#e5e4e6",
+    "romaji": "Shiraumenezumi",
+    "kanji": "白梅鼠",
+    "eng": "White Plum Gray"
+  },
+  {
+    "color": "#dcdddd",
+    "romaji": "Shironezumi",
+    "kanji": "白鼠",
+    "eng": "White Gray"
+  },
+  {
+    "color": "#dddcd6",
+    "romaji": "Kinunezumi",
+    "kanji": "絹鼠",
+    "eng": "Silk Gray"
+  },
+  {
+    "color": "#c0c6c9",
+    "romaji": "Haiao",
+    "kanji": "灰青",
+    "eng": "Ash Blue"
+  },
+  {
+    "color": "#afafb0",
+    "romaji": "Ginnezu",
+    "kanji": "銀鼠",
+    "eng": "Silver Gray"
+  },
+  {
+    "color": "#adadad",
+    "romaji": "Usu nibi",
+    "kanji": "薄鈍",
+    "eng": "Dull Light"
+  },
+  {
+    "color": "#a3a3a2",
+    "romaji": "Usu sumi",
+    "kanji": "薄墨色",
+    "eng": "Light Ink"
+  },
+  {
+    "color": "#9ea1a3",
+    "romaji": "Suzu iro",
+    "kanji": "錫色",
+    "eng": "Tin"
+  },
+  {
+    "color": "#9fa0a0",
+    "romaji": "Sonezu",
+    "kanji": "素鼠",
+    "eng": "Plain Gray"
+  },
+  {
+    "color": "#949495",
+    "romaji": "Nezumi iro",
+    "kanji": "鼠色",
+    "eng": "Mouse Gray"
+  },
+  {
+    "color": "#888084",
+    "romaji": "Genjinezumi",
+    "kanji": "源氏鼠",
+    "eng": "Genji Gray"
+  },
+  {
+    "color": "#7d7d7d",
+    "romaji": "Haiiro",
+    "kanji": "灰色",
+    "eng": "Gray"
+  },
+  {
+    "color": "#7b7c7d",
+    "romaji": "Namari iro",
+    "kanji": "鉛色",
+    "eng": "Lead"
+  },
+  {
+    "color": "#727171",
+    "romaji": "Nibi iro",
+    "kanji": "鈍色",
+    "eng": "Dull"
+  },
+  {
+    "color": "#595857",
+    "romaji": "Sumi",
+    "kanji": "墨",
+    "eng": "Ink"
+  },
+  {
+    "color": "#595455",
+    "romaji": "Dobunezumi",
+    "kanji": "丼鼠",
+    "eng": "Dark Red Gray"
+  },
+  {
+    "color": "#524e4d",
+    "romaji": "Keshizumiiro",
+    "kanji": "消炭色",
+    "eng": "Charcoal Gray"
+  },
+  {
+    "color": "#474a4d",
+    "romaji": "Aisumicha",
+    "kanji": "藍墨茶",
+    "eng": "Indigo Ink Tea"
+  },
+  {
+    "color": "#383c3c",
+    "romaji": "Yōkan iro",
+    "kanji": "羊羹色",
+    "eng": "Yōkan"
+  },
+  {
+    "color": "#2b2b2b",
+    "romaji": "Roiro",
+    "kanji": "蝋色",
+    "eng": "Wax"
+  },
+  {
+    "color": "#2b2b2b",
+    "romaji": "Kuro",
+    "kanji": "黒",
+    "eng": "Black"
+  },
+  {
+    "color": "#180614",
+    "romaji": "Ubaguruma iro",
+    "kanji": "烏羽色",
+    "eng": "Crow Feather"
+  },
+  {
+    "color": "#281a14",
+    "romaji": "Tetsuguro",
+    "kanji": "鉄黒",
+    "eng": "Iron Black"
+  },
+  {
+    "color": "#000b00",
+    "romaji": "Nureba iro",
+    "kanji": "濡羽色",
+    "eng": "Wet Feather"
+  },
+  {
+    "color": "#250d00",
+    "romaji": "Kokutan",
+    "kanji": "黒檀",
+    "eng": "Ebony"
+  },
+  {
+    "color": "#241a08",
+    "romaji": "Kenpōkurocha",
+    "kanji": "憲法黒茶",
+    "eng": "Constitution Black Tea"
+  },
+  {
+    "color": "#16160e",
+    "romaji": "Ankoku iro",
+    "kanji": "暗黒色",
+    "eng": "Darkness"
+  }  
+]

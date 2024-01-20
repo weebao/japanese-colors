@@ -1,0 +1,105 @@
+
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One:400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Andika:400,500,600,700");
+
+body {
+  font-family: "Andika", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Fjalla One", sans-serif;
+  margin-bottom: 24px;
+}
+
+.description {
+  text-align: center;
+  padding: 0 25%;
+  margin-bottom: 48px;
+}
+
+@media (max-width: 768px) {
+  .description {
+    padding: 0 10%;
+  }
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 0 24px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.search > input {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+.search > .name-search {
+  min-width: 240px;
+}
+
+.search > .hex-search {
+  width: 120px;
+}
+
+.color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.color {
+  position: relative;
+  display: block;
+  height: 240px;
+  color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  padding: 12px;
+  transition: all 0.3s;
+  overflow: hidden;
+}
+
+.color:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.color:hover > .color-background {
+  filter: brightness(0.5);
+}
+
+.color > .color-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  transition: all 0.3s;
+}
+
+.color > span {
+  font-size: 1rem;
+  display: block;
+}
+
+.color > .kanji {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.color > .hex {
+  text-transform: uppercase;
+}
