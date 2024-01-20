@@ -40,6 +40,11 @@ h1 {
   padding: 8px 12px;
   font-size: 1rem;
   font-family: inherit;
+  transition: all 0.3s ease-out;
+}
+
+.search > input:focus-visible {
+  border: 1px solid #e9dfe5;
 }
 
 .search > .name-search {
@@ -65,7 +70,7 @@ h1 {
   -webkit-user-select: none;
   -moz-user-select: none;
   padding: 12px;
-  transition: all 0.3s;
+  transition: all 0.3s ease-out;
   overflow: hidden;
 }
 

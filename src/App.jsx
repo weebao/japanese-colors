@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import colorList from './assets/colors.json'
 import { ColorCard } from './components/ColorCard'
 import './App.css'
