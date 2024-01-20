@@ -129,7 +129,7 @@
       "color": "#e09e87",
       "romaji": "Tokigaracha",
       "kanji": "ときがら茶",
-      "eng": "Time-Worn Tea"
+      "eng": "Time-Worn Brown"
   },
   {
       "color": "#d69090",
@@ -1165,7 +1165,7 @@
   },
   {
       "color": "#888e7e",
-      "romaji": "Rikyu Nezumi",
+      "romaji": "Rikyu Nezu",
       "kanji": "利休鼠",
       "eng": "Grayish Dark Green"
   },
@@ -1483,7 +1483,7 @@
   },
   {
       "color": "#c8d5bb",
-      "romaji": "Yanaginezumi",
+      "romaji": "Yanaginezu",
       "kanji": "柳鼠",
       "eng": "Willow Mouse"
   },
@@ -1531,7 +1531,7 @@
   },
   {
       "color": "#97a791",
-      "romaji": "Fukagawanezumi",
+      "romaji": "Fukagawanezu",
       "kanji": "深川鼠",
       "eng": "Fukagawa Mouse"
   },
@@ -1609,7 +1609,7 @@
   },
   {
       "color": "#bed3ca",
-      "romaji": "Chigusanezumi",
+      "romaji": "Chigusanezu",
       "kanji": "千草鼠",
       "eng": "Thousand Grass Gray"
   },
@@ -1723,7 +1723,7 @@
   },
   {
       "color": "#80989b",
-      "romaji": "Minatonezumi",
+      "romaji": "Minatonezu",
       "kanji": "湊鼠",
       "eng": "Minato Gray"
   },
@@ -1741,7 +1741,7 @@
   },
   {
       "color": "#47585c",
-      "romaji": "Sabinezumi",
+      "romaji": "Sabinezu",
       "kanji": "錆鼠",
       "eng": "Rusty Gray"
   },
@@ -1749,11 +1749,11 @@
       "color": "#485859",
       "romaji": "Sabitetuonando",
       "kanji": "錆鉄御納戸",
-      "eng": "Rust Iron Nando"
+      "eng": "Rusty Iron Storeroom"
   },
   {
       "color": "#6c848d",
-      "romaji": "Ainezumi",
+      "romaji": "Ainezu",
       "kanji": "藍鼠",
       "eng": "Indigo Gray"
   },
@@ -1779,19 +1779,19 @@
       "color": "#4c6473",
       "romaji": "Omeshionando",
       "kanji": "御召御納戸",
-      "eng": "Imperial Nando"
+      "eng": "Kimono Storage"
   },
   {
       "color": "#455765",
       "romaji": "Tetsonando",
       "kanji": "鉄御納戸",
-      "eng": "Iron Nando"
+      "eng": "Iron Storage"
   },
   {
       "color": "#44617b",
-      "romaji": "Konnezumi",
+      "romaji": "Konnezu",
       "kanji": "紺鼠",
-      "eng": "Dark Gray"
+      "eng": "Dark Blue Gray"
   },
   {
       "color": "#393f4c",
@@ -1917,13 +1917,13 @@
       "color": "#2a83a2",
       "romaji": "Hanaasagiiro",
       "kanji": "花浅葱",
-      "eng": "Flower Onion"
+      "eng": "Light Blue Flower"
   },
   {
       "color": "#59b9c6",
       "romaji": "Shinbashi-iro",
       "kanji": "新橋色",
-      "eng": "Shinbashi"
+      "eng": "New Bridge"
   },
   {
       "color": "#2ca9e1",
@@ -2091,7 +2091,7 @@
       "color": "#4d5aaf",
       "romaji": "Konkikyō",
       "kanji": "紺桔梗",
-      "eng": "Dark Bellflower"
+      "eng": "Navy Blue Bellflower"
   },
   {
       "color": "#4d5aaf",
@@ -2247,7 +2247,7 @@
       "color": "#915c8b",
       "romaji": "Futaai",
       "kanji": "二藍",
-      "eng": "Double Indigo"
+      "eng": "Dark Indigo"
   },
   {
       "color": "#9d5b8b",
@@ -2305,19 +2305,19 @@
   },
   {
       "color": "#dcd6d9",
-      "romaji": "Usu Ume Nezumi",
+      "romaji": "Usu Ume Nezu",
       "kanji": "薄梅鼠",
       "eng": "Light Plum Gray"
   },
   {
       "color": "#d3cfd9",
-      "romaji": "Akatsuki Nezumi",
+      "romaji": "Akatsuki Nezu",
       "kanji": "暁鼠",
       "eng": "Dawn Gray"
   },
   {
       "color": "#d3ccd6",
-      "romaji": "Botan Nezumi",
+      "romaji": "Botan Nezu",
       "kanji": "牡丹鼠",
       "eng": "Peony Gray"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "color": "#a6a5c4",
-    "romaji": "Fujinezumi",
+    "romaji": "Fujinezu",
     "kanji": "藤鼠",
     "eng": "Wisteria Gray"
   },
@@ -2347,13 +2347,13 @@
   },
   {
       "color": "#9790a4",
-      "romaji": "Usu Nezumi",
+      "romaji": "Usu Nezu",
       "kanji": "薄鼠",
       "eng": "Light Gray"
   },
   {
       "color": "#9e8b8e",
-      "romaji": "Hatobanezumi",
+      "romaji": "Hatobanezu",
       "kanji": "鳩羽鼠",
       "eng": "Dove Feather Gray"
   },
@@ -2365,19 +2365,19 @@
   },
   {
       "color": "#95949a",
-      "romaji": "Kikyōnezumi",
+      "romaji": "Kikyōnezu",
       "kanji": "桔梗鼠",
       "eng": "Bellflower Gray"
   },
   {
       "color": "#71686c",
-      "romaji": "Murasakinezumi",
+      "romaji": "Murasakinezu",
       "kanji": "紫鼠",
       "eng": "Purple Gray"
   },
   {
       "color": "#705b67",
-      "romaji": "Budōnezumi",
+      "romaji": "Budōnezu",
       "kanji": "葡萄鼠",
       "eng": "Grape Gray"
   },
@@ -2395,7 +2395,7 @@
   },
   {
       "color": "#4f455c",
-      "romaji": "Koinezumi",
+      "romaji": "Koinezu",
       "kanji": "濃鼠",
       "eng": "Dark Gray"
   },
@@ -2413,7 +2413,7 @@
   },
   {
       "color": "#524748",
-      "romaji": "Benikeshinezumi",
+      "romaji": "Benikeshinezu",
       "kanji": "紅消鼠",
       "eng": "Crimson Dim Gray"
   },
@@ -2437,7 +2437,7 @@
   },
   {
       "color": "#d4dcda",
-      "romaji": "Usu Kumonezumi",
+      "romaji": "Usu Kumonezu",
       "kanji": "薄雲鼠",
       "eng": "Light Cloud Gray"
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "color": "#a99e93",
-    "romaji": "Chanezumi",
+    "romaji": "Chanezu",
     "kanji": "茶鼠",
     "eng": "Tea Gray"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "color": "#928178",
-    "romaji": "Edonezumi",
+    "romaji": "Edonezu",
     "kanji": "江戸鼠",
     "eng": "Edo Gray"
   },
@@ -2547,7 +2547,7 @@
     "color": "#543f32",
     "romaji": "Kenpō Iro",
     "kanji": "憲法色",
-    "eng": "Dark Grayish Orange"
+    "eng": "Legal Orange"
   },
   {
     "color": "#554738",
@@ -2607,7 +2607,7 @@
     "color": "#fbfaf5",
     "romaji": "Kinari Iro",
     "kanji": "生成り色",
-    "eng": "Unbleached"
+    "eng": "Dough"
   },
   {
     "color": "#f3f3f3",
@@ -2623,25 +2623,25 @@
   },
   {
     "color": "#eae5e3",
-    "romaji": "Soshoku",
+    "romaji": "Shiroiro",
     "kanji": "素色",
-    "eng": "Plain Color"
+    "eng": "Nature White"
   },
   {
     "color": "#e5e4e6",
-    "romaji": "Shiraumenezumi",
+    "romaji": "Shiraumenezu",
     "kanji": "白梅鼠",
     "eng": "White Plum Gray"
   },
   {
     "color": "#dcdddd",
-    "romaji": "Shironezumi",
+    "romaji": "Shironezu",
     "kanji": "白鼠",
     "eng": "White Gray"
   },
   {
     "color": "#dddcd6",
-    "romaji": "Kinunezumi",
+    "romaji": "Kinunezu",
     "kanji": "絹鼠",
     "eng": "Silk Gray"
   },
@@ -2683,13 +2683,13 @@
   },
   {
     "color": "#949495",
-    "romaji": "Nezumi iro",
+    "romaji": "Nezu iro",
     "kanji": "鼠色",
     "eng": "Mouse Gray"
   },
   {
     "color": "#888084",
-    "romaji": "Genjinezumi",
+    "romaji": "Genjinezu",
     "kanji": "源氏鼠",
     "eng": "Genji Gray"
   },
@@ -2719,7 +2719,7 @@
   },
   {
     "color": "#595455",
-    "romaji": "Dobunezumi",
+    "romaji": "Dobunezu",
     "kanji": "丼鼠",
     "eng": "Dark Red Gray"
   },
@@ -2733,7 +2733,7 @@
     "color": "#474a4d",
     "romaji": "Aisumicha",
     "kanji": "藍墨茶",
-    "eng": "Indigo Ink Tea"
+    "eng": "Indigo Ink Brown"
   },
   {
     "color": "#383c3c",
@@ -2757,7 +2757,7 @@
     "color": "#180614",
     "romaji": "Ubaguruma iro",
     "kanji": "烏羽色",
-    "eng": "Crow Feather"
+    "eng": "Crow's Feather"
   },
   {
     "color": "#281a14",
@@ -2769,7 +2769,7 @@
     "color": "#000b00",
     "romaji": "Nureba iro",
     "kanji": "濡羽色",
-    "eng": "Wet Feather"
+    "eng": "Wet Crow's Feather"
   },
   {
     "color": "#250d00",
@@ -2781,12 +2781,12 @@
     "color": "#241a08",
     "romaji": "Kenpōkurocha",
     "kanji": "憲法黒茶",
-    "eng": "Royal Black Tea"
+    "eng": "Legal Black Brown"
   },
   {
     "color": "#16160e",
     "romaji": "Ankoku iro",
     "kanji": "暗黒色",
-    "eng": "Darkness"
+    "eng": "Deep Black"
   }  
 ]

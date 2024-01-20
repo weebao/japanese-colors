@@ -16,7 +16,7 @@ h1 {
 .description {
   text-align: center;
   padding: 0 25%;
-  margin-bottom: 48px;
+  margin-bottom: 24px;
 }
 
 @media (max-width: 768px) {
@@ -30,7 +30,7 @@ h1 {
   justify-content: center;
   gap: 8px;
   padding: 0 24px;
-  margin-bottom: 24px;
+  margin-bottom: 48px;
   flex-wrap: wrap;
 }
 
@@ -40,7 +40,6 @@ h1 {
   padding: 8px 12px;
   font-size: 1rem;
   font-family: inherit;
-  transition: all 0.3s ease-out;
 }
 
 .search > input:focus-visible {
@@ -53,6 +52,26 @@ h1 {
 
 .search > .hex-search {
   width: 120px;
+}
+
+.search > .search-delete-btn {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  bottom: 0;
+  margin: auto;
+  border: solid 1px transparent;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  font-size: 0.75rem;
+  text-align: center;
+  z-index: 1;
+}
+
+.search > .search-delete-btn:hover {
+  cursor: pointer;
+  border: solid 1px #ccc;
 }
 
 .color-grid {
@@ -75,7 +94,7 @@ h1 {
 }
 
 .color:hover {
-  color: white;
+  color: #FDEFF2;
   cursor: pointer;
   user-select: auto;
   -webkit-user-select: auto;
@@ -99,6 +118,8 @@ h1 {
 .color > span {
   font-size: 1rem;
   display: block;
+  text-transform: uppercase;
+  margin-bottom: 4px;
 }
 
 .color > .kanji {
@@ -108,6 +129,7 @@ h1 {
   margin-bottom: 8px;
 }
 
-.color > .hex {
-  text-transform: uppercase;
+.color > .copy {
+  margin-top: 12px;
+  text-transform: none;
 }

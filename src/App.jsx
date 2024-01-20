@@ -28,11 +28,11 @@ function App() {
         Japanese colors
       </h1>
       <p className="description">
-        Below are 456 known traditional Japanese colors. In Japanese, the word "Nezumi (鼠)" meaning "mouse" is used in some color names to indicate gray. There is also the term "Hai-iro (灰色)" that directly translates to "gray color," but it is not commonly used because the word "hai" also means "ash," which reminds people of death.
+        Below are 456 known traditional Japanese colors. In Japanese, the word "Nezu (鼠)" meaning "mouse" is used in some color names to indicate gray. There is also the term "Hai-iro (灰色)" that directly translates to "gray color", but it is not commonly used since the word "hai" also means "ash" which reminds people of death.
       </p>
       <div className="search">
-        <input type="text" className="name-search" placeholder="Search for a color by name" onChange={(e) => setTextQuery(e.target.value)} />
-        <input type="text" className="hex-search" placeholder="Hex code" onChange={(e) => setHexQuery(e.target.value)} />
+        <input type="search" className="name-search" placeholder="Search for a color by name" onChange={(e) => setTextQuery(e.target.value.trim())} />
+        <input type="search" className="hex-search" placeholder="Hex code" onChange={(e) => setHexQuery(e.target.value.trim())} />
       </div>
       <div className="color-grid">
         {colorList.filter(colorFilter).map((data) => (
