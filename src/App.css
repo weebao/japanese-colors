@@ -47,12 +47,6 @@ h1 {
   border: 1px solid #e9dfe5;
 }
 
-@media (prefers-color-scheme: light) {
-  .search > input:focus-visible {
-    border: 1px solid #777;
-  }
-}
-
 .search > .name-search {
   min-width: 240px;
 }
