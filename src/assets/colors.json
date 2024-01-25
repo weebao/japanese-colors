@@ -1485,7 +1485,7 @@
       "color": "#c8d5bb",
       "romaji": "Yanaginezu",
       "kanji": "柳鼠",
-      "eng": "Willow Mouse"
+      "eng": "Willow Gray"
   },
   {
       "color": "#c1d8ac",
@@ -1533,7 +1533,7 @@
       "color": "#97a791",
       "romaji": "Fukagawanezu",
       "kanji": "深川鼠",
-      "eng": "Fukagawa Mouse"
+      "eng": "Fukagawa Gray"
   },
   {
       "color": "#98d98e",
@@ -1563,7 +1563,7 @@
       "color": "#bed2c3",
       "romaji": "Seijinezu",
       "kanji": "青磁鼠",
-      "eng": "Celadon Mouse"
+      "eng": "Celadon Gray"
   },
   {
       "color": "#93b69c",
@@ -2685,7 +2685,7 @@
     "color": "#949495",
     "romaji": "Nezu iro",
     "kanji": "鼠色",
-    "eng": "Mouse Gray"
+    "eng": "Gray"
   },
   {
     "color": "#888084",
@@ -2697,7 +2697,7 @@
     "color": "#7d7d7d",
     "romaji": "Haiiro",
     "kanji": "灰色",
-    "eng": "Gray"
+    "eng": "Ash Gray"
   },
   {
     "color": "#7b7c7d",
@@ -2709,7 +2709,7 @@
     "color": "#727171",
     "romaji": "Nibi iro",
     "kanji": "鈍色",
-    "eng": "Dull"
+    "eng": "Dull Gray"
   },
   {
     "color": "#595857",
@@ -2739,7 +2739,7 @@
     "color": "#383c3c",
     "romaji": "Yōkan iro",
     "kanji": "羊羹色",
-    "eng": "Yōkan"
+    "eng": "Yōkan Cake"
   },
   {
     "color": "#2b2b2b",
