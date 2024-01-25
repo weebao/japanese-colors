@@ -36,7 +36,7 @@ function App() {
       </div>
       <div className="color-grid">
         {colorList.filter(colorFilter).map((data) => (
-          <ColorCard key={data.eng} colorData={data} />
+          <ColorCard colorData={data} />
         ))}
       </div>
     </>
